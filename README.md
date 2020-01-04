@@ -1,11 +1,11 @@
-# MSYS2 GitHub homepage
+# MSYS2 GitHub 首頁
 
-### Resources
+### 資源
 
 - [website](http://www.msys2.org)
 - [wiki](https://github.com/msys2/msys2/wiki)
 
-### Repositories
+### 儲存庫
 
 - [home](https://github.com/msys2/msys2)
 - [runtime](https://github.com/alexpux/cygwin)
@@ -17,5 +17,5 @@
 - [installer](https://github.com/msys2/msys2-installer)
 - [path conversion routines](https://github.com/alexpux/path_convert)
 
-## Issue and Bug Reports
+## 問題和錯誤報告
 Issues must be posted in [MINGW Packages](https://github.com/alexpux/mingw-packages) or [MSYS](https://github.com/alexpux/msys2-packages) repositories ONLY.
