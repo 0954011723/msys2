@@ -3,8 +3,8 @@
 ### 資源
 
 - [官方網站](http://www.msys2.org)
-- [維基](https://github.com/msys2/msys2/wiki)
-
+- [官方維基](https://github.com/msys2/msys2/wiki)
+- [本站維基](https://github.com/0954011723/msys2/wiki)
 ### 儲存庫
 
 - [MSYS2 首頁](https://github.com/msys2/msys2)
