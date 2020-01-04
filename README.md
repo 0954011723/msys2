@@ -18,4 +18,5 @@
 - [path conversion routines](https://github.com/alexpux/path_convert)
 
 ## 問題和錯誤報告
-Issues must be posted in [MINGW Packages](https://github.com/alexpux/mingw-packages) or [MSYS](https://github.com/alexpux/msys2-packages) repositories ONLY.
+問題只能發佈在 [MINGW Packages](https://github.com/alexpux/mingw-packages) 套件或  [MSYS](https://github.com/alexpux/msys2-packages) 儲存庫。
+
