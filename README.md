@@ -7,13 +7,13 @@
 
 ### 儲存庫
 - [MSYS2 首頁](https://github.com/msys2/msys2)
-- [runtime](https://github.com/alexpux/cygwin)
-- [MSYS 套件](https://github.com/alexpux/msys2-packages)
-- [MINGW 套件](https://github.com/alexpux/mingw-packages)
-- [Pacman](https://github.com/alexpux/msys2-pacman)
-- [keyring](https://github.com/Alexpux/msys2-keyring)
 - [website](https://github.com/msys2/msys2.github.io)
-- [installer](https://github.com/msys2/msys2-installer)
+- [MSYS2 安裝](https://github.com/msys2/msys2-installer)
+- [runtime](https://github.com/0954011723/cygwin)
+- [MSYS 套件](https://github.com/0954011723/MSYS2-packages)
+- [MINGW 套件](https://github.com/0954011723/mingw-packages)
+- [Pacman](https://github.com/0954011723/msys2-pacman)
+- [keyring](https://github.com/0954011723/msys2-keyring)
 - [path conversion routines](https://github.com/alexpux/path_convert)
 
 ## 問題和錯誤報告
